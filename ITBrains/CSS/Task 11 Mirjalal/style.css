@@ -1,0 +1,93 @@
+body {
+    margin: 0 0;
+}
+
+.main-container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+nav {
+    margin: 27px auto 0;
+    width: 590px;
+    height: 50px;
+    background-color: white;
+    border-radius: 1px solid gray;
+}
+
+nav a {
+    font-size: 20px;
+    line-height: 50px;
+    height: 100%;
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+    text-transform: uppercase;
+    color: rgb(0, 255, 68);
+    cursor: pointer;
+    margin-left: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: none;
+}
+
+.descr-box {
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 20px;
+    letter-spacing: 3px;
+}
+
+.descr-box {
+    padding: 64px 0;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.bashliq {
+    text-align: center;
+    margin-top: 0;
+}
+
+.image-box {
+    height: 800px;
+    overflow: hidden;
+}
+
+.image-box>img {
+    width: 100%;
+    height: 100%;
+}
+
+.background-container-box {
+    background-color: lightgray;
+}
+
+.primery-btn {
+    min-width: 150px;
+    background-color: green;
+    border-radius: 4px;
+    height: 44px;
+    padding: 0 32px;
+    outline: 0;
+    font-size: 20px;
+    line-height: 40px;
+    box-shadow: 5px 5px 5px lightgreen;
+    border: 0;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+footer {
+    max-width: 1200px;
+     background-color: white;
+    font-size: 20px;
+    margin: auto;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+.copyright{
+    padding: 25px 0;
+    text-align: right;
+}

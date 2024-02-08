@@ -1,0 +1,26 @@
+body {
+    background-color: lightblue;
+}
+
+.main-text {
+    text-align: center;
+    color: #fff;
+    font-size: 50px;
+    font-weight: 900;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 5rem;
+    margin-bottom: 1rem;
+    margin-left: 80px;
+}
+
+.box {
+    max-width: 1140px;
+    margin: 0 auto;
+    transition: all .5s;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
+

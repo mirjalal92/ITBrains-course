@@ -1,0 +1,94 @@
+.wrapper {
+    max-width: 1000px;
+    margin-inline: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.card {
+    width: 315px;
+    height: 200px;
+    min-width: 300px;
+    background-color: blueviolet;
+    margin: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    border-radius: 10px;
+    padding-left: 15px;
+}
+
+.card1 {
+    width: 315px;
+    height: 200px;
+    min-width: 300px;
+    background-color: green;
+    margin: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    border-radius: 10px;
+    padding-left: 15px;
+}
+.card2 {
+    width: 315px;
+    height: 200px;
+    min-width: 300px;
+    background-color: blue;
+    margin: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    border-radius: 10px;
+    padding-left: 15px;
+}
+.card3 {
+    width: 315px;
+    height: 200px;
+    min-width: 300px;
+    background-color: black;
+    margin: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    border-radius: 10px;
+    padding-left: 15px;
+}
+.chip-logo {
+    width: 50px;
+    padding-top: 30px;
+    margin-left: -5px;
+}
+
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+
+.card-number {
+    font-weight: 200px;
+    font-size: 20px;
+    margin-top: -5px;
+}
+
+.name {
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: -15px;
+    text-transform: uppercase;
+}
+
+.valid {
+    font-size: 12px;
+    margin-bottom: 0px;
+}
+.data {
+    font-size: 20px;
+    margin-top: -5px;
+}
+.card-logo {
+    width: 100px;
+    height: 35px;
+    margin-left: 200px;
+    /* margin-right: 1000px; */
+    margin-bottom:35px;
+    margin-top: -80px;
+}

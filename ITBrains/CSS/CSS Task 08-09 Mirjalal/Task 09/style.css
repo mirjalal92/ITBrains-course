@@ -1,0 +1,35 @@
+main {
+    width: 65%;
+    
+    
+    
+    
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+td {
+    box-sizing: border-box;
+    border: 1px solid #80ced6;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #f0fff8;
+    }
+
+p {
+box-sizing: border-box;
+background-color: #f0fff8;
+padding: 30px;
+border: 1px solid #80ced6;
+border-radius: 5px;
+}
+ul {
+    box-sizing: border-box;
+    background-color: #f0fff8;
+    padding: 30px;
+    border: 1px solid #80ced6;
+    border-radius: 5px;
+    }

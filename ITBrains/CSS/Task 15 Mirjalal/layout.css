@@ -1,0 +1,14 @@
+.row {
+    max-width: 1140px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+
+.col-4 {
+    width: calc(100%/12*4);
+    margin-top: 40px;
+    margin: 10px;
+    border: 1px solid lightgrey;
+}

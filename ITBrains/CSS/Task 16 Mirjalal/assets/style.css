@@ -1,0 +1,21 @@
+header {
+    width: 100%;
+    height: 50px;
+    background-color: black;
+}
+
+.box {
+    width: 300px;
+    height: 300px;
+    background-color: lightgrey;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.footer {
+    width: 60%;
+    height: 50px;
+    margin: auto;
+    background-color: palevioletred;
+    border-radius: 20px;
+}

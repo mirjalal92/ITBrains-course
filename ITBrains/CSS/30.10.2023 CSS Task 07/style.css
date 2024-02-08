@@ -1,0 +1,144 @@
+* {
+    padding: 7px 15px;
+    margin: auto;
+    box-sizing: border-box;
+    width: 400px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.siyahi li {
+    list-style-position: inside;
+}
+
+li:first-child {
+    margin: auto;
+    background-color: #000000;
+    color: #ffff;
+    transition: 0.3s;
+    font-family: 'Roboto', sans-serif;
+}
+
+li:nth-child(2) {
+    margin: auto;
+    background-color: #C0C0C0;
+    color: #ffff;
+    transition: 0.3s;
+    font-family: 'Roboto', sans-serif;
+}
+
+li:nth-child(3) {
+    margin: auto;
+    background-color: #808080;
+    color: #ffff;
+    transition: 0.3s;
+    font-family: 'Roboto', sans-serif;
+}
+
+li:nth-child(4) {
+    margin: auto;
+    background-color: #3498db;
+    color: #ffff;
+    transition: 0.3s;
+    font-family: 'Roboto', sans-serif;
+}
+
+li:nth-child(5) {
+    margin: auto;
+    background-color: #800000;
+    color: #ffff;
+    transition: 0.3s;
+    font-family: 'Roboto', sans-serif;
+}
+
+li:nth-child(6) {
+    margin: auto;
+    background-color: #FF0000;
+    color: #ffff;
+    transition: 0.3s;
+    font-family: 'Roboto', sans-serif;
+}
+
+li:nth-child(7) {
+    margin: auto;
+    background-color: #800080;
+    color: #ffff;
+    transition: 0.3s;
+    font-family: 'Roboto', sans-serif;
+}
+
+li:nth-child(8) {
+    margin: auto;
+    background-color: #FF00FF;
+    color: #ffff;
+    transition: 0.3s;
+    font-family: 'Roboto', sans-serif;
+}
+
+li:nth-child(9) {
+    margin: auto;
+    background-color: #008000;
+    color: #ffff;
+    transition: 0.3s;
+    font-family: 'Roboto', sans-serif;
+}
+
+li:nth-child(10) {
+    margin: auto;
+    background-color: #00FF00;
+    color: #ffff;
+    transition: 0.3s;
+    font-family: 'Roboto', sans-serif;
+}
+
+li:nth-child(11) {
+    margin: auto;
+    background-color: #808000;
+    color: #ffff;
+    transition: 0.3s;
+    font-family: 'Roboto', sans-serif;
+}
+
+li:nth-child(12) {
+    margin: auto;
+    background-color: #FFFF00;
+    color: #ffff;
+    transition: 0.3s;
+    font-family: 'Roboto', sans-serif;
+}
+
+li:nth-child(13) {
+    margin: auto;
+    background-color: #000080;
+    color: #ffff;
+    transition: 0.3s;
+    font-family: 'Roboto', sans-serif;
+}
+
+li:nth-child(14) {
+    margin: auto;
+    background-color: #0000FF;
+    color: #ffff;
+    transition: 0.3s;
+    font-family: 'Roboto', sans-serif;
+}
+
+li:nth-child(15) {
+    margin: auto;
+    background-color: #008080;
+    color: #ffff;
+    transition: 0.3s;
+    font-family: 'Roboto', sans-serif;
+}
+
+li:nth-child(16) {
+    margin: auto;
+    background-color: #00FFFF;
+    color: #ffff;
+    transition: 0.3s;
+    font-family: 'Roboto', sans-serif;
+}
+
+li:hover {
+    background-color: #ffff;
+    color: #000000;
+}
