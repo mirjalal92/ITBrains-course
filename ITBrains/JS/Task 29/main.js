@@ -47,16 +47,16 @@
 
 // // ====== Task 4 =====
 
-let userObj = {
+let client = {
 
     fullName: "Mirjalal",
     creditLimit: "15000",
     balans: "2500",
     percentOfMinPayment: "5",
-
     getBalance: function (realBalance) {
-        return userObj.balans = realBalance;
+        return client.balans = realBalance;
     }
 }
+console.log(client.getBalance());
 
 
