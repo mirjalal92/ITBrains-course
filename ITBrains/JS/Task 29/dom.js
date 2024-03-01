@@ -34,7 +34,7 @@
 
 //  ===== Task 3.2 =====
 
-// let fonRengi = document.querySelectorAll(".primary")
+// let fonRengi = document.querySelector(".primary")
 
 // fonRengi.style.backgroundColor = "#ebebeb"
 
@@ -52,8 +52,19 @@
 
 //  ===== Task 5.1 =====
 
-let primary = document.getElementById("")
+// document.querySelectorAll("li").forEach(a=>{
+//     return a.className = "item"
+// })
 
-primary.classList.add("item")
+
+//  ===== Task 5.2 =====
+
+document.querySelectorAll("li").forEach(a=>{
+    if ( a.className !== "primary")
+    {return a.className = "secondary"}
+})
+
+console.log(document.querySelectorAll("li"));
+
 
 
