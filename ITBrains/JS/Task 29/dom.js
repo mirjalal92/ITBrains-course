@@ -40,6 +40,14 @@
 
 // console.log(fonRengi);
 
+// document.querySelectorAll("li").forEach(a=> {
+//     if (a.className === "primary") {
+//         return a.style.backgoundColor = "#ebebeb"
+//     }
+// })
+
+
+
 
 
 //  ===== Task 4 =====
@@ -52,19 +60,20 @@
 
 //  ===== Task 5.1 =====
 
-// document.querySelectorAll("li").forEach(a=>{
-//     return a.className = "item"
-// })
-
-
-//  ===== Task 5.2 =====
-
 document.querySelectorAll("li").forEach(a=>{
-    if ( a.className !== "primary")
-    {return a.className = "secondary"}
+    return a.className = "item"
 })
 
 console.log(document.querySelectorAll("li"));
+
+//  ===== Task 5.2 =====
+
+// document.querySelectorAll("li").forEach(a=>{
+//     if ( a.className !== "primary")
+//     {return a.className = "secondary"}
+// })
+
+// console.log(document.querySelectorAll("li"));
 
 
 
